@@ -6,17 +6,17 @@
   "homepage": "https://blksy.github.io/IceCream/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-projekt/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wojciechonoszko/team-projekt.git"
+    "url": "git+https://github.com/blksy/IceCream"
   },
   "keywords": [],
-  "author": "Wojciech Onoszko <wojciechonoszko@gmail.com>",
+  "author": "Bartosz Oleksy <boleksy14@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wojciechonoszko/team-projekt/issues"
+    "url": "https://github.com/blksy/IceCream/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
